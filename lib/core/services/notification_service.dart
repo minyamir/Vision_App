@@ -42,7 +42,7 @@ class NotificationService {
     await _notificationsPlugin.show(
       0,
       'VisionAI Demo Alert 🚀',
-      'This is a test notification popping up on your screen!',
+      'This is a test notification popping up on your screen! from minyamir ',
       details,
     );
   }
