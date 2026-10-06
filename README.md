@@ -3,16 +3,16 @@
 <table>
   <tr>
     <td align="center">
-      <img src="images/image1.jpg" width="250">
+      <img src="images/image1.jpg" width="220">
     </td>
     <td align="center">
-      <img src="images/image2.jpg" width="250">
+      <img src="images/image2.jpg" width="220">
     </td>
     <td align="center">
-      <img src="images/image3.jpg" width="250">
+      <img src="images/image3.jpg" width="220">
     </td>
     <td align="center">
-      <img src="images/image4.jpg" width="250">
+      <img src="images/image4.jpg" width="220">
     </td>
   </tr>
 </table>
