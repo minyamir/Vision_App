@@ -16,19 +16,19 @@ Instead of requiring the user to visually interact with buttons, menus, applicat
 
 ### VisionVoice-AI Interface
 
-![VisionVoice-AI Screenshot 1](images/image1.png)
+![VisionVoice-AI Screenshot 1](images/image1.jpg)
 
 ### Computer Vision / Object Detection
 
-![VisionVoice-AI Screenshot 2](images/image2.png)
+![VisionVoice-AI Screenshot 2](images/image2.jpg)
 
 ### Voice Assistant / Application Automation
 
-![VisionVoice-AI Screenshot 3](images/image3.png)
+![VisionVoice-AI Screenshot 3](images/image3.jpg)
 
 ### Mobile Application
 
-![VisionVoice-AI Screenshot 4](images/image4.png)
+![VisionVoice-AI Screenshot 4](images/image4.jpg)
 
 ---
 
