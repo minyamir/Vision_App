@@ -287,7 +287,7 @@ FastAPI
 
 OpenCV
 
-YOLO / Object Detection
+Object Detection
 
 Face Recognition
 
