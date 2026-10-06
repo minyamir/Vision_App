@@ -354,30 +354,22 @@ images/
 ├── image3.jpg
 └── image4.jpg
 
-Image 1
-
-<p align="center">
-  <img src="images/image1.jpg" width="400">
-</p>
-
-Image 2
-
-<p align="center">
-  <img src="images/image2.jpg" width="400">
-</p>
-
-Image 3
-
-<p align="center">
-  <img src="images/image3.jpg" width="400">
-</p>
-
-Image 4
-
-<p align="center">
-  <img src="images/image4.jpg" width="400">
-</p>
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/image1.jpg" width="250">
+    </td>
+    <td align="center">
+      <img src="images/image2.jpg" width="250">
+    </td>
+    <td align="center">
+      <img src="images/image3.jpg" width="250">
+    </td>
+    <td align="center">
+      <img src="images/image4.jpg" width="250">
+    </td>
+  </tr>
+</table>
 🚀 Installation
 
 Clone the project:
